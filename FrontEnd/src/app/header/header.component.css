@@ -1,0 +1,37 @@
+
+.input {
+  width: 600px;
+}
+
+.form {
+  float: left;
+  border-bottom-left-radius: 5px;
+}
+
+.bar {
+  background-color: #1f1f31;
+  height: 70px;
+}
+
+.button {
+  float: left;
+}
+
+.button {
+  height: 50px;
+  width: 50px;
+  background-color: #ffc546;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  text-align: center;
+  align-items: center;
+
+}
+
+.input-group {
+
+}
+
+.in {
+  padding-top: 15px;
+}
